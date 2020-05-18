@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'myAngularProject';
+  newheading = 'Heading added as component property in app.component.ts'
 }
